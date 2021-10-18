@@ -59,3 +59,4 @@ else
     python3 -B /home/brendon/Documents/changelogs/scripts/description_update.py $year $day
     echo 'Done'
 fi
+
