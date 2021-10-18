@@ -81,3 +81,5 @@ while '\n' in d_entire_contents:    #remove any unwanted newlines
 with open(d_path, 'w') as log_d:
     log_d.writelines(d_entire_contents)
 
+
+
